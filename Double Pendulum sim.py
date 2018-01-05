@@ -188,7 +188,7 @@ while time < tmax:
 ##ask about chaos theory
 
 
-https://github.com/jnibauer/Double-Pendulum-Simulation.git
+
 
 
 
