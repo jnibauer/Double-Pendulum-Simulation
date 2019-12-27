@@ -16,7 +16,7 @@ pi      = 3.14159265359
 def secondDerivs(theta1, theta1dot, theta2, theta2dot, time):    ##defining the function and its independent variables
 
 
-##Substitutions for Frequentyly Used Variables
+##Substitutions for Frequently Used Variables
     cos1    = cos(theta1)
     cos2    = cos(theta2)
     sin1    = sin(theta1)
