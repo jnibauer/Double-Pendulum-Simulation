@@ -183,11 +183,6 @@ while time < tmax:
 
 
 
-##theta1vstheta2 but with different time steps
-##ask about time step
-##ask about chaos theory
-
-
 
 
 
